@@ -162,10 +162,10 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
+        "text": "Chaque détail pensé pour dominer le tatami",
+        "text_size": "xsmall",
         "text_style": "fill",
-        "scrolling_mode": "auto",
+        "scrolling_mode": "scroll",
         "scrolling_speed": 5,
         "background": "",
         "background_gradient": "",
@@ -224,6 +224,7 @@
         "collection-2",
         "collection-3"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_collections": false,
