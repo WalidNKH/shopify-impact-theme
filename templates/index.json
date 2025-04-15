@@ -165,8 +165,8 @@
         "text": "Chaque détail pensé pour dominer le tatami",
         "text_size": "xsmall",
         "text_style": "fill",
-        "scrolling_mode": "scroll",
-        "scrolling_speed": 5,
+        "scrolling_mode": "auto",
+        "scrolling_speed": 15,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -353,7 +353,7 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "title": "BJJ GI",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -374,7 +374,7 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "title": "No GI",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -416,7 +416,7 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "title": "COMPETITION COLLECTION",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
