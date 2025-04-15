@@ -244,7 +244,12 @@
       "type": "featured-collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "flash-roll-gi-competition-noir",
+          "flash-roll-gi-competition-blanc",
+          "flash-roll-rashguard-blanc",
+          "flash-roll-rashguard-bleu"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
