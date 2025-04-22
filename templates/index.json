@@ -439,7 +439,7 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_11_24_32.png",
+            "image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_11_47_16.jpg",
             "title": "BJJ GI",
             "heading_tag": "h4",
             "link_url": "",
@@ -483,7 +483,8 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/IMG_1589.jpg",
+            "title": "GI COLLECTOR",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -504,6 +505,7 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_11_59_20.png",
             "title": "COMPETITION COLLECTION",
             "heading_tag": "h4",
             "link_url": "",
