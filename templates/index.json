@@ -248,9 +248,9 @@
         "collection": "",
         "products": [
           "flash-roll-gi-competition-noir",
-          "flash-roll-gi-competition-blanc",
           "flash-roll-rashguard-blanc",
-          "flash-roll-rashguard-bleu"
+          "flash-roll-rashguard-bleu",
+          "flash-roll-gi-original"
         ],
         "full_width": true,
         "stack_products": false,
@@ -259,10 +259,10 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Nos Best Seller",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
