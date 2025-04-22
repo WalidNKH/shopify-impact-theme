@@ -609,11 +609,11 @@
           "type": "item",
           "settings": {
             "horizontal_position": 24,
-            "vertical_position": 70,
-            "horizontal_position_mobile": 24,
+            "vertical_position": 75,
+            "horizontal_position_mobile": 54,
             "vertical_position_mobile": 70,
-            "icon_width": 32,
-            "title": "Feature name",
+            "icon_width": 28,
+            "title": "Qualité",
             "content": "<p>Share useful information about your product features.</p>"
           }
         },
@@ -625,8 +625,8 @@
             "horizontal_position_mobile": 62,
             "vertical_position_mobile": 14,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Ajustement fiable",
+            "content": "<p>Système de serrage avec cordon plat et œillets renforcés pour un maintien stable pendant l’effort.</p>"
           }
         },
         "1664424434f5b7d0e0-2": {
@@ -637,8 +637,8 @@
             "horizontal_position_mobile": 83,
             "vertical_position_mobile": 75,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Léger sur toi. Lourd pour l’adversaire",
+            "content": "<p>Tissu <strong>ripstop </strong>de haute qualité : léger pour garder ta mobilité, solide pour encaisser les grips les plus durs</p>"
           }
         }
       },
@@ -649,6 +649,8 @@
       ],
       "settings": {
         "full_width": true,
+        "image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
+        "mobile_image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
         "title": "",
         "content": "",
         "button_text": "",
