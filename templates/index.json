@@ -134,6 +134,18 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_xg4Lt4": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
@@ -141,7 +153,8 @@
         "1664424046b00c932c-1",
         "1664424046b00c932c-2",
         "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac",
+        "item_xg4Lt4"
       ],
       "settings": {
         "full_width": false,
@@ -365,6 +378,18 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
+            "title": "100% essentiel",
+            "subheading": "Showcase a benefit of your product",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 1.9
+          }
+        },
+        "item_f6ryMw": {
+          "type": "item",
+          "settings": {
             "title": "100%",
             "subheading": "Showcase a benefit of your product",
             "content": "",
@@ -376,15 +401,17 @@
         }
       },
       "block_order": [
-        "1664424181b38582d5-0"
+        "1664424181b38582d5-0",
+        "item_f6ryMw"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_mobile": true,
         "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
-        "impact_text_size_ratio": 1,
+        "impact_text_size_ratio": 0.5,
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
@@ -397,28 +424,21 @@
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Conçu avec les meilleurs, pour les meilleurs",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Nous travaillons avec des spécialistes de la broderie textile, sélectionnés pour leur exigence et leur précision</p>"
           }
         }
       },
       "block_order": [
-        "1664424230c4756b0e-0",
         "1664424230c4756b0e-1",
         "1664424230c4756b0e-2"
       ],
@@ -427,6 +447,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_16_36_29.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
