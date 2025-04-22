@@ -421,41 +421,6 @@
         "button_text_color": ""
       }
     },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Conçu avec les meilleurs",
-            "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Nous travaillons avec des spécialistes de la broderie textile, sélectionnés pour leur exigence et leur précision</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_16_36_29.png",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_16_36_29.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
@@ -694,6 +659,41 @@
         "hot_spot_content_text_color": "#000000",
         "hot_spot_content_opacity": 90,
         "hot_spot_content_blur_radius": 3
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Conçu avec les meilleurs",
+            "heading_tag": "h1"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Nous travaillons avec des spécialistes de la broderie textile, sélectionnés pour leur exigence et leur précision</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_16_43_18.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_16_36_29.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "multiple-images-with-text": {
@@ -1025,11 +1025,11 @@
     "featured-collection",
     "slideshow_a4cGfW",
     "impact-text",
-    "image-with-text-overlay",
     "media-grid",
     "before-after-image",
     "press",
     "hot-spots",
+    "image-with-text-overlay",
     "multiple-images-with-text",
     "featured-product",
     "feature-chart",
