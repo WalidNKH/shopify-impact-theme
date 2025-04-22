@@ -272,6 +272,92 @@
         "product_card_text_color": ""
       }
     },
+    "slideshow_a4cGfW": {
+      "type": "slideshow",
+      "blocks": {
+        "image_6PmeGx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_1_avr._2025_a_14_16_26.png",
+            "mobile_image": "shopify://shop_images/IMG_1581.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_YJUbyj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0079.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_pacGkj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0075.jpg",
+            "mobile_image": "shopify://shop_images/ChatGPT_Image_1_avr._2025_a_23_42_37.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_6PmeGx",
+        "image_YJUbyj",
+        "image_pacGkj"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -353,6 +439,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_11_24_32.png",
             "title": "BJJ GI",
             "heading_tag": "h4",
             "link_url": "",
@@ -374,6 +461,7 @@
         "item-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_1584.jpg",
             "title": "No GI",
             "heading_tag": "h4",
             "link_url": "",
@@ -890,6 +978,7 @@
     "scrolling-text",
     "collection-list",
     "featured-collection",
+    "slideshow_a4cGfW",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
