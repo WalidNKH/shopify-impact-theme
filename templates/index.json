@@ -929,32 +929,48 @@
     "faq": {
       "type": "faq",
       "blocks": {
+        "item_fTLn3G": {
+          "type": "item",
+          "settings": {
+            "title": "Comment fonctionnent vos drops ?",
+            "content": "<p>Nous lançons nos produits sous forme de <strong>drops en quantité limitée</strong>. Chaque drop est annoncé à l’avance (date + heure) et reste disponible jusqu’à épuisement des stocks.<br/>Une fois le stock écoulé, il n’y a <strong>pas de réassort immédiat </strong>— le but est de garantir une production raisonnée et une exclusivité à chaque pièce.<br/><strong>Astuce : </strong>abonne-toi à notre newsletter pour être prévenu en priorité.</p>"
+          }
+        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Comment taillent vos kimonos ?",
+            "content": "<p>Nos kimonos ont une coupe ajustée, pensée pour offrir confort et mobilité sans excès de tissu. Si vous hésitez entre deux tailles, nous vous recommandons de consulter notre <strong>guide des tailles </strong>ou de nous contacter pour un conseil personnalisé.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Est-ce que je peux échanger ou retourner un article ?",
+            "content": "<p>Oui, vous avez <strong>14 jours </strong>après réception pour demander un échange ou un retour, tant que le produit est <strong>non porté, non lavé et dans son emballage d’origine</strong>. Pour lancer la procédure, contactez-nous via le formulaire de contact ou par e-mail.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Comment entretenir mon kimono ?",
+            "content": "<p>Lavez à froid (30°C max), sans adoucissant, et évitez le sèche-linge pour préserver la forme et la durabilité. Suspendre à l’air libre est toujours préférable.</p>"
+          }
+        },
+        "item_Yce6xX": {
+          "type": "item",
+          "settings": {
+            "title": "Je n’ai pas reçu mon colis, que faire ?",
+            "content": "<p>Contactez-nous avec votre numéro de commande. On s’engage à trouver une solution rapide et efficace. Aucun client laissé dans l’inconnu, c’est notre promesse.</p>"
           }
         }
       },
       "block_order": [
+        "item_fTLn3G",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_Yce6xX"
       ],
       "settings": {
         "full_width": false,
