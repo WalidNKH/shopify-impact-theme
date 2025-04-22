@@ -26,7 +26,7 @@
     "privacy-banner": {
       "type": "privacy-banner",
       "settings": {
-        "privacy_bar_title": "🍪 Politique de cookies",
+        "privacy_bar_title": "Politique de cookies",
         "privacy_bar_content": "<p>Nous utilisons des cookies et des technologies similaires pour vous garantir la meilleure expérience sur notre site.<br/>Consultez notre politique de confidentialité pour en savoir plus.</p>"
       }
     },
