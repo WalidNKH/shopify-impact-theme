@@ -180,9 +180,9 @@
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 15,
-        "background": "",
+        "background": "#000000",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#f2f2f2",
         "text_gradient": ""
       }
     },
@@ -672,6 +672,7 @@
         "1664424434f5b7d0e0-1",
         "1664424434f5b7d0e0-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
@@ -824,6 +825,7 @@
         "quantity-selector",
         "buy-buttons"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "product": "flash-roll-rashguard-bleu",
