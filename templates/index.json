@@ -173,13 +173,17 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "custom_css": [
+        ".section--tight.section-full.bg-custom.text-custom {height: 25px !important; display: flex; align-items: center; justify-content: center; overflow: hidden; padding: 0 !important;}",
+        ".scrolling-text__text.heading {font-size: 11px !important; line-height: 1 !important;}"
+      ],
       "settings": {
         "full_width": true,
         "text": "Chaque détail pensé pour dominer le tatami",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
-        "scrolling_speed": 15,
+        "scrolling_speed": 20,
         "background": "#000000",
         "background_gradient": "",
         "text_color": "#f2f2f2",
