@@ -532,7 +532,7 @@
       "type": "before-after-image",
       "settings": {
         "full_width": true,
-        "subheading": "",
+        "subheading": "ORIGINAL",
         "title": "Des modèles en tout genre",
         "content": "",
         "before_image": "shopify://shop_images/VIOLET.png",
