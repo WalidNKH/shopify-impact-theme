@@ -174,8 +174,8 @@
     "scrolling-text": {
       "type": "scrolling-text",
       "custom_css": [
-        ".section--tight.section-full.bg-custom.text-custom {height: 25px !important; display: flex; align-items: center; justify-content: center; overflow: hidden; padding: 0 !important;}",
-        ".scrolling-text__text.heading {font-size: 11px !important; line-height: 1 !important;}"
+        ".section--tight.section-full.bg-custom.text-custom {height: 2em !important; display: flex; align-items: center; justify-content: center; overflow: hidden; padding: 0 !important;}",
+        ".scrolling-text__text.heading {font-size: 1em !important; line-height: 1 !important;}"
       ],
       "settings": {
         "full_width": true,
