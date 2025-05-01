@@ -532,30 +532,6 @@
         "background_gradient": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": true,
-        "subheading": "ORIGINAL",
-        "title": "Des modèles en tout genre",
-        "content": "",
-        "before_image": "shopify://shop_images/VIOLET.png",
-        "after_image": "shopify://shop_images/BEIGE.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "",
-        "after_text": "",
-        "drag_initial_position": 38,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -591,6 +567,30 @@
         "overlay_opacity": 30
       }
     },
+    "before-after-image": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "ORIGINAL",
+        "title": "Des modèles en tout genre",
+        "content": "",
+        "before_image": "shopify://shop_images/VIOLET.png",
+        "after_image": "shopify://shop_images/BEIGE.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "",
+        "after_text": "",
+        "drag_initial_position": 38,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "press": {
       "type": "press",
       "blocks": {
@@ -619,6 +619,7 @@
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -699,57 +700,6 @@
         "hot_spot_content_text_color": "#000000",
         "hot_spot_content_opacity": 90,
         "hot_spot_content_blur_radius": 3
-      }
-    },
-    "press_BprV6C": {
-      "type": "press",
-      "blocks": {
-        "quote_a9Afk6": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
-        },
-        "quote_Y9KqQh": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
-        },
-        "quote_bMgAcP": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "quote_a9Afk6",
-        "quote_Y9KqQh",
-        "quote_bMgAcP"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "featured-product": {
@@ -1043,11 +993,10 @@
     "slideshow_a4cGfW",
     "impact-text",
     "media-grid",
-    "before-after-image",
     "image-with-text-overlay",
+    "before-after-image",
     "press",
     "hot-spots",
-    "press_BprV6C",
     "featured-product",
     "feature-chart",
     "faq"

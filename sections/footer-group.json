@@ -92,9 +92,10 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image_width": 150,
+            "image": "shopify://shop_images/FR_BADGE.png",
+            "image_width": 90,
             "heading_size": "h3",
-            "title": "Sign up for new stories and personal offers",
+            "title": "Inscrivez-vous à notre newsletter",
             "content": ""
           }
         },
@@ -102,7 +103,7 @@
           "type": "links",
           "settings": {
             "menu": "footer",
-            "show_menu_title": true
+            "show_menu_title": false
           }
         },
         "text": {
