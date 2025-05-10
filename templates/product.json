@@ -280,6 +280,7 @@
         "item_hJzdrc",
         "item_Hd9YBb"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "block_size": "medium",
