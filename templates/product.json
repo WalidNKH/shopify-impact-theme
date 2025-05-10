@@ -109,6 +109,56 @@
         "input_text_color": ""
       }
     },
+    "accordion_content_BknqBJ": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_ywhen4": {
+          "type": "item",
+          "settings": {
+            "title": "Description",
+            "content": "<p>Conçu pour répondre aux exigences de la pratique du Jiu-Jitsu Brésilien, ce kimono allie solidité, confort et sobriété.</p><p>La veste est fabriquée en tissu <strong>pearl weave</strong>, reconnu pour sa durabilité tout en restant relativement léger. Les zones clés, comme le col et les coutures, sont renforcées pour mieux résister aux saisies et à l’usure au fil des entraînements.</p><p>Le pantalon en <strong>ripstop</strong> est pensé pour offrir une bonne liberté de mouvement, avec des renforts aux genoux et un système de serrage stable grâce à un cordon plat.</p><p>Chaque kimono est brodé avec soin par des professionnels du textile, pour une finition propre et durable.</p>"
+          }
+        },
+        "item_DBBDhH": {
+          "type": "item",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<ul><li>Veste en <strong>pearl weave 450 gsm</strong></li><li>Pantalon en <strong>ripstop léger et résistant</strong></li><li>Renforts aux points de tension (entre-jambe, col, coutures)</li><li>Cordon de serrage plat et œillets renforcés</li><li>Broderies nettes réalisées avec précision</li><li>Coupe ajustée (ni trop ample, ni trop serrée)</li></ul>"
+          }
+        },
+        "item_eiDeY9": {
+          "type": "item",
+          "settings": {
+            "title": "Guide des tailles",
+            "content": "<p>A0 → 160–170 cm / 50–65 kg  <br/>A1 → 165–175 cm / 60–75 kg  <br/>A1L → 175–180 cm / 65–75 kg  <br/>A2 → 170–185 cm / 75–90 kg  <br/>A2L → 180–190 cm / 80–95 kg  <br/>A3 → 180–195 cm / 90–105 kg  <br/>A4 → 190–200 cm / 105–120 kg  <br/><br/>Conseil : entre deux tailles, choisissez selon votre préférence (ajusté ou plus ample).<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_ywhen4",
+        "item_DBBDhH",
+        "item_eiDeY9"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "hot_spots_cPX779": {
       "type": "hot-spots",
       "blocks": {
@@ -326,6 +376,7 @@
   },
   "order": [
     "main",
+    "accordion_content_BknqBJ",
     "hot_spots_cPX779",
     "image_with_text_overlay_Ar9zmX",
     "image_link_blocks_cifaaF",
