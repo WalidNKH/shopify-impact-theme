@@ -179,6 +179,42 @@
         "hot_spot_content_blur_radius": 3
       }
     },
+    "impact_text_8cUeU7": {
+      "type": "impact-text",
+      "blocks": {
+        "item_DwQz4a": {
+          "type": "item",
+          "settings": {
+            "title": "100%",
+            "subheading": "conçu pour durer",
+            "content": "<p>Des matériaux solides, une finition propre, aucun détail laissé au hasard.</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_DwQz4a"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "image_link_blocks_cifaaF": {
       "type": "image-link-blocks",
       "blocks": {
@@ -283,6 +319,7 @@
   "order": [
     "main",
     "hot_spots_cPX779",
+    "impact_text_8cUeU7",
     "image_link_blocks_cifaaF",
     "related-products"
   ]
