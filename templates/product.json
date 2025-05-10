@@ -109,6 +109,76 @@
         "input_text_color": ""
       }
     },
+    "hot_spots_cPX779": {
+      "type": "hot-spots",
+      "blocks": {
+        "item_K8qPmD": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 23,
+            "vertical_position": 70,
+            "horizontal_position_mobile": 38,
+            "vertical_position_mobile": 58,
+            "icon_width": 32,
+            "title": "Coutures latérales renforcées",
+            "content": "<p>Coutures renforcées sur les côtés pour plus de solidité à l’entraînement, sans gêner les mouvements.</p>"
+          }
+        },
+        "item_NJYVhR": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 62,
+            "vertical_position": 14,
+            "horizontal_position_mobile": 52,
+            "vertical_position_mobile": 36,
+            "icon_width": 32,
+            "title": "Broderie",
+            "content": "<p>Broderie fine réalisée par des professionnels du textile, positionnée avec précision, durable lavage après lavage.</p>"
+          }
+        },
+        "item_PML9eJ": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 74,
+            "vertical_position": 75,
+            "horizontal_position_mobile": 40,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Col renforcé",
+            "content": "<p>Col rigide avec coutures d’épaisseur pour une meilleure tenue et plus de résistance aux saisies fréquentes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_K8qPmD",
+        "item_NJYVhR",
+        "item_PML9eJ"
+      ],
+      "name": "Hot spots",
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
+        "mobile_image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
     "image_link_blocks_cifaaF": {
       "type": "image-link-blocks",
       "blocks": {
@@ -207,6 +277,7 @@
   },
   "order": [
     "main",
+    "hot_spots_cPX779",
     "image_link_blocks_cifaaF",
     "related-products"
   ]
