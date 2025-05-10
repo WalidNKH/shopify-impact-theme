@@ -179,40 +179,47 @@
         "hot_spot_content_blur_radius": 3
       }
     },
-    "impact_text_8cUeU7": {
-      "type": "impact-text",
+    "image_with_text_overlay_Ar9zmX": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "item_DwQz4a": {
-          "type": "item",
+        "subheading_PN9Xca": {
+          "type": "subheading",
           "settings": {
-            "title": "100%",
-            "subheading": "conçu pour durer",
-            "content": "<p>Des matériaux solides, une finition propre, aucun détail laissé au hasard.</p>",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
+            "text": "Subheading"
+          }
+        },
+        "heading_QGaeH7": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_PLaJQp": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "item_DwQz4a"
+        "subheading_PN9Xca",
+        "heading_QGaeH7",
+        "richtext_PLaJQp"
       ],
-      "name": "Impact text",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_16_43_18.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_16_36_29.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "image_link_blocks_cifaaF": {
@@ -319,7 +326,7 @@
   "order": [
     "main",
     "hot_spots_cPX779",
-    "impact_text_8cUeU7",
+    "image_with_text_overlay_Ar9zmX",
     "image_link_blocks_cifaaF",
     "related-products"
   ]
