@@ -185,20 +185,20 @@
         "subheading_PN9Xca": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "FLASH ROLL"
           }
         },
         "heading_QGaeH7": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Un savoir-faire textile précis",
             "heading_tag": "h1"
           }
         },
         "richtext_PLaJQp": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>avec des broderies nettes réalisées par des professionnels du vêtement technique.</p>"
           }
         }
       },
