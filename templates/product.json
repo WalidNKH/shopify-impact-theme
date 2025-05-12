@@ -352,7 +352,7 @@
         "content": "<p>- Tout a été pensé au détail près -</p>",
         "button_text": "",
         "button_url": "",
-        "desktop_text_position": "place-self-start text-start",
+        "desktop_text_position": "place-self-start-center text-center",
         "image_background": "",
         "image_background_gradient": "",
         "overlay_color": "#000000",
