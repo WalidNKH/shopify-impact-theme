@@ -159,6 +159,84 @@
         "accordion_text_color": ""
       }
     },
+    "rich_text_tDePJd": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_JKidC7": {
+          "type": "subheading",
+          "settings": {
+            "text": "FLASH ROLL"
+          }
+        },
+        "heading_9CY3tW": {
+          "type": "heading",
+          "settings": {
+            "text": "DESCRIPTION",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_bpEmCy": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Conçu pour répondre aux exigences de la pratique du Jiu-Jitsu Brésilien, ce kimono allie solidité, confort et sobriété.</p><p>La veste est fabriquée en tissu <strong>pearl weave</strong>, reconnu pour sa durabilité tout en restant relativement léger. Les zones clés, comme le col et les coutures, sont renforcées pour mieux résister aux saisies et à l’usure au fil des entraînements.</p><p>Le pantalon en <strong>ripstop</strong> est pensé pour offrir une bonne liberté de mouvement, avec des renforts aux genoux et un système de serrage stable grâce à un cordon plat.</p><p>Chaque kimono est brodé avec soin par des professionnels du textile, pour une finition propre et durable.</p>"
+          }
+        },
+        "heading_mXqWmP": {
+          "type": "heading",
+          "settings": {
+            "text": "Caractéristiques",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_VtDDAF": {
+          "type": "richtext",
+          "settings": {
+            "content": "<ul><li>Veste en <strong>pearl weave 450 gsm</strong></li><li>Pantalon en <strong>ripstop léger et résistant</strong></li><li>Renforts aux points de tension (entre-jambe, col, coutures)</li><li>Cordon de serrage plat et œillets renforcés</li><li>Broderies nettes réalisées avec précision</li><li>Coupe ajustée (ni trop ample, ni trop serrée)</li></ul>"
+          }
+        },
+        "heading_9a8Vmz": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Guide des tailles",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "image_hPR7rq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1712.jpg",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JKidC7",
+        "heading_9CY3tW",
+        "richtext_bpEmCy",
+        "heading_mXqWmP",
+        "richtext_VtDDAF",
+        "heading_9a8Vmz",
+        "image_hPR7rq"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media_with_text_edH7V9": {
       "type": "media-with-text",
       "blocks": {
@@ -413,6 +491,7 @@
   "order": [
     "main",
     "accordion_content_BknqBJ",
+    "rich_text_tDePJd",
     "media_with_text_edH7V9",
     "hot_spots_cPX779",
     "image_with_text_overlay_Ar9zmX",
