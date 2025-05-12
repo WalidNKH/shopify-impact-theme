@@ -383,6 +383,19 @@
         "hot_spot_content_blur_radius": 3
       }
     },
+    "custom_liquid_3x8hhB": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  /* Réduction de l'espace au-dessus et en dessous de toutes les sections .section-blends */\n  .section-blends.section-full {\n    padding-top: 20px !important;\n    padding-bottom: 10px !important;\n    margin-top: 0 !important;\n    margin-bottom: 0 !important;\n  }\n\n  /* Ajustements spécifiques pour Rich Text si besoin */\n  .rich-text__wrapper {\n    margin-top: 0 !important;\n    margin-bottom: 0 !important;\n    padding-top: 0 !important;\n    padding-bottom: 0 !important;\n  }\n\n  /* Ajustement spécifique pour content-over-media (Hot Spots) */\n  .content-over-media {\n    margin-top: 0 !important;\n    margin-bottom: 0 !important;\n    padding-top: 0 !important;\n    padding-bottom: 0 !important;\n  }\n\n  /* Pour les images dans Hot Spots */\n  .content-over-media img {\n    margin-top: 0 !important;\n    margin-bottom: 0 !important;\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_Ar9zmX": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -536,6 +549,7 @@
     "media_with_text_edH7V9",
     "rich_text_R7Ynzh",
     "hot_spots_cPX779",
+    "custom_liquid_3x8hhB",
     "image_with_text_overlay_Ar9zmX",
     "image_link_blocks_cifaaF",
     "related-products"
