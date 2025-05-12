@@ -207,15 +207,6 @@
             "text_color": "",
             "gradient": ""
           }
-        },
-        "image_hPR7rq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1712.jpg",
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
         }
       },
       "block_order": [
@@ -224,8 +215,7 @@
         "richtext_bpEmCy",
         "heading_mXqWmP",
         "richtext_VtDDAF",
-        "heading_9a8Vmz",
-        "image_hPR7rq"
+        "heading_9a8Vmz"
       ],
       "name": "Rich text",
       "settings": {
@@ -235,6 +225,23 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_jqJQDB": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/IMG_0193.jpg",
+        "mobile_image": "shopify://shop_images/IMG_0196.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "media_with_text_edH7V9": {
@@ -271,6 +278,32 @@
       "settings": {
         "full_width": false,
         "spacing": "small"
+      }
+    },
+    "rich_text_R7Ynzh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LGRfFK": {
+          "type": "heading",
+          "settings": {
+            "text": "ART DU DETAIL",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_LGRfFK"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "hot_spots_cPX779": {
@@ -323,7 +356,7 @@
         "full_width": true,
         "image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
         "mobile_image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
-        "title": "L'ART DU DETAIL",
+        "title": "",
         "content": "",
         "button_text": "",
         "button_url": "",
@@ -492,7 +525,9 @@
     "main",
     "accordion_content_BknqBJ",
     "rich_text_tDePJd",
+    "image_with_text_overlay_jqJQDB",
     "media_with_text_edH7V9",
+    "rich_text_R7Ynzh",
     "hot_spots_cPX779",
     "image_with_text_overlay_Ar9zmX",
     "image_link_blocks_cifaaF",
