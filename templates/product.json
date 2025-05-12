@@ -291,10 +291,17 @@
             "text_color": "",
             "gradient": ""
           }
+        },
+        "richtext_NDGiyW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>- Tout a été pensé au détail près -</p>"
+          }
         }
       },
       "block_order": [
-        "heading_LGRfFK"
+        "heading_LGRfFK",
+        "richtext_NDGiyW"
       ],
       "name": "Rich text",
       "settings": {
