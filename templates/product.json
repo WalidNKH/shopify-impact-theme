@@ -126,8 +126,23 @@
             "content": "<ul><li>Veste en <strong>pearl weave 450 gsm</strong></li><li>Pantalon en <strong>ripstop léger et résistant</strong></li><li>Renforts aux points de tension (entre-jambe, col, coutures)</li><li>Cordon de serrage plat et œillets renforcés</li><li>Broderies nettes réalisées avec précision</li><li>Coupe ajustée (ni trop ample, ni trop serrée)</li></ul>"
           }
         },
+        "item_Fy3jaE": {
+          "type": "item",
+          "settings": {
+            "title": "Entretien",
+            "content": "<ul><li>Laver à froid (30°C max)</li><li>Ne pas utiliser d’adoucissant</li><li>Séchage à l’air libre recommandé</li><li>Ne pas repasser les broderies</li></ul>"
+          }
+        },
+        "item_tyyicf": {
+          "type": "item",
+          "settings": {
+            "title": "Pensé pour la pratique",
+            "content": "<p>Chaque détail a été réfléchi pour accompagner l'entraînement : coupe fonctionnelle, tissu durable, finitions sobres. Un kimono conçu pour ceux qui prennent leur pratique au sérieux.</p>"
+          }
+        },
         "item_eiDeY9": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Guide des tailles",
             "content": "<p>A0 → 160–170 cm / 50–65 kg  <br/>A1 → 165–175 cm / 60–75 kg  <br/>A1L → 175–180 cm / 65–75 kg  <br/>A2 → 170–185 cm / 75–90 kg  <br/>A2L → 180–190 cm / 80–95 kg  <br/>A3 → 180–195 cm / 90–105 kg  <br/>A4 → 190–200 cm / 105–120 kg  <br/><br/>Conseil : entre deux tailles, choisissez selon votre préférence (ajusté ou plus ample).<br/></p>"
@@ -137,6 +152,8 @@
       "block_order": [
         "item_ywhen4",
         "item_DBBDhH",
+        "item_Fy3jaE",
+        "item_tyyicf",
         "item_eiDeY9"
       ],
       "name": "Accordion content",
@@ -217,6 +234,7 @@
         "richtext_VtDDAF",
         "heading_9a8Vmz"
       ],
+      "disabled": true,
       "name": "Rich text",
       "settings": {
         "full_width": true,
