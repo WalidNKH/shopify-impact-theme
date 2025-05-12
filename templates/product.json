@@ -511,6 +511,19 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "custom_liquid_rPmPMy": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  /* Centrage du texte pour mobile */\n  .section-header.md\\:hidden .prose {\n    text-align: center !important;\n    align-items: center !important;\n    justify-content: center !important;\n    margin: 0 auto !important;\n  }\n\n  /* Centrage du texte pour desktop */\n  .place-self-start.text-start {\n    text-align: center !important;\n    place-self: center !important;\n    justify-self: center !important;\n  }\n\n  .place-self-start.text-start .prose {\n    margin: 0 auto !important;\n  }\n</style>\n\n<style>\n  /* Espace au-dessus du heading (mobile) */\n  .section-header.md\\:hidden {\n    padding-top: 20px !important;\n  }\n\n  /* Espace au-dessus du heading (desktop) */\n  .place-self-start.text-start {\n    padding-top: 20px !important;\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -522,6 +535,7 @@
     "hot_spots_cPX779",
     "image_with_text_overlay_Ar9zmX",
     "image_link_blocks_cifaaF",
-    "related-products"
+    "related-products",
+    "custom_liquid_rPmPMy"
   ]
 }
