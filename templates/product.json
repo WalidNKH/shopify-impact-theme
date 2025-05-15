@@ -343,11 +343,82 @@
         "item_NJYVhR",
         "item_PML9eJ"
       ],
+      "disabled": true,
       "name": "Hot spots",
       "settings": {
         "full_width": true,
         "image": "shopify://shop_images/BLEU_COMPET_DEVANT.png",
         "mobile_image": "shopify://shop_images/BLEU_COMPET_DEVANT.png",
+        "title": "ART DU DETAIL",
+        "content": "<p>- Tout a été pensé au détail près -</p>",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start-center text-center",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
+    "hot_spots_i4xKVX": {
+      "type": "hot-spots",
+      "blocks": {
+        "item_fWDhGi": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 39,
+            "vertical_position": 62,
+            "horizontal_position_mobile": 38,
+            "vertical_position_mobile": 58,
+            "icon_width": 32,
+            "title": "Coutures latérales renforcées",
+            "content": "<p>Coutures renforcées sur les côtés pour plus de solidité à l’entraînement, sans gêner les mouvements.</p>"
+          }
+        },
+        "item_XQmi4F": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 43,
+            "vertical_position": 25,
+            "horizontal_position_mobile": 52,
+            "vertical_position_mobile": 36,
+            "icon_width": 32,
+            "title": "Broderie",
+            "content": "<p>Broderie fine réalisée par des professionnels du textile, positionnée avec précision, durable lavage après lavage.</p>"
+          }
+        },
+        "item_A4fJYV": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 52,
+            "vertical_position": 14,
+            "horizontal_position_mobile": 40,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Col renforcé",
+            "content": "<p>Col rigide avec coutures d’épaisseur pour une meilleure tenue et plus de résistance aux saisies fréquentes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_fWDhGi",
+        "item_XQmi4F",
+        "item_A4fJYV"
+      ],
+      "name": "Hot spots",
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
+        "mobile_image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
         "title": "ART DU DETAIL",
         "content": "<p>- Tout a été pensé au détail près -</p>",
         "button_text": "",
@@ -533,6 +604,7 @@
     "image_with_text_overlay_jqJQDB",
     "media_with_text_edH7V9",
     "hot_spots_cPX779",
+    "hot_spots_i4xKVX",
     "image_with_text_overlay_Ar9zmX",
     "image_link_blocks_cifaaF",
     "related-products",
