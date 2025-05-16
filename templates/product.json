@@ -488,8 +488,8 @@
       "name": "Hot spots",
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/BLEU_COMPET_DEVANT.png",
-        "mobile_image": "shopify://shop_images/BLEU_COMPET_DEVANT.png",
+        "image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
+        "mobile_image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
         "title": "ART DU DETAIL",
         "content": "<p>- Tout a été pensé au détail près -</p>",
         "button_text": "",
