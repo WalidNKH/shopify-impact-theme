@@ -116,28 +116,28 @@
           "type": "item",
           "settings": {
             "title": "Description",
-            "content": "<p>Conçu pour répondre aux exigences de la pratique du Jiu-Jitsu Brésilien, ce kimono allie solidité, confort et sobriété.</p><p>La veste est fabriquée en tissu <strong>pearl weave</strong>, reconnu pour sa durabilité tout en restant relativement léger. Les zones clés, comme le col et les coutures, sont renforcées pour mieux résister aux saisies et à l’usure au fil des entraînements.</p><p>Le pantalon en <strong>ripstop</strong> est pensé pour offrir une bonne liberté de mouvement, avec des renforts aux genoux et un système de serrage stable grâce à un cordon plat.</p><p>Chaque kimono est brodé avec soin par des professionnels du textile, pour une finition propre et durable.</p>"
+            "content": "<p>Conçu pour accompagner la pratique du <strong>Jiu-Jitsu Brésilien</strong>, le rashguard offre un équilibre entre <strong>maintien, confort et mobilité.</strong></p><p>Fabriqué dans un tissu extensible à séchage rapide, il épouse les mouvements sans gêner, tout en apportant une légère compression pour plus de <strong>stabilité</strong> pendant l’effort.</p><p>Les coutures plates réduisent les <strong>frottements</strong> et limitent les <strong>irritations</strong>, même lors d’entraînements intensifs ou sous le kimono.</p><p>Chaque <strong>rashguard</strong> est imprimé avec soin pour garantir un rendu visuel propre et durable, entraînement après entraînement.</p>"
           }
         },
         "item_DBBDhH": {
           "type": "item",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<ul><li>Veste en <strong>pearl weave 450 gsm</strong></li><li>Pantalon en <strong>ripstop léger et résistant</strong></li><li>Renforts aux points de tension (entre-jambe, col, coutures)</li><li>Cordon de serrage plat et œillets renforcés</li><li>Broderies nettes réalisées avec précision</li><li>Coupe ajustée (ni trop ample, ni trop serrée)</li></ul>"
+            "content": "<ul><li>Tissu polyester/élasthanne extensible</li><li>Coupe ajustée avec compression légère</li><li>Coutures plates (flatlock) anti-frottement</li><li>Séchage rapide et respirabilité optimisée</li><li>Impression sublimée durable</li><li>Col renforcé pour une meilleure tenue</li></ul>"
           }
         },
         "item_Fy3jaE": {
           "type": "item",
           "settings": {
             "title": "Entretien",
-            "content": "<ul><li>Laver à froid (30°C max)</li><li>Ne pas utiliser d’adoucissant</li><li>Séchage à l’air libre recommandé</li><li>Ne pas repasser les broderies</li></ul>"
+            "content": "<ul><li><strong>Lavage à froid</strong> (30°C max)</li><li><strong>Sans adoucissant</strong> ni javel</li><li><strong>Séchage à l’air libre recommandé</strong></li><li><strong>Ne pas repasser</strong> ni passer au sèche-linge</li></ul>"
           }
         },
         "item_tyyicf": {
           "type": "item",
           "settings": {
             "title": "Pensé pour la pratique",
-            "content": "<p>Chaque détail a été réfléchi pour accompagner l'entraînement : coupe fonctionnelle, tissu durable, finitions sobres. Un kimono conçu pour ceux qui prennent leur pratique au sérieux.</p>"
+            "content": "<p>Chaque détail a été pensé pour<strong>suivre le rythme de l’entraînement</strong>: coupe près du corps,<strong>tissu respirant</strong>, coutures confortables.<br/>Un rashguard conçu pour celles et ceux qui cherchent à<strong>bouger librement</strong>,<strong>sans distraction</strong>, en no-gi comme sous le gi.</p>"
           }
         },
         "item_eiDeY9": {
@@ -243,23 +243,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_jqJQDB": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Untitled_image.png",
-        "mobile_image": "shopify://shop_images/IMG_0196.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "media_with_text_edH7V9": {
@@ -440,76 +423,6 @@
         "hot_spot_content_blur_radius": 3
       }
     },
-    "hot_spots_rjnRLE": {
-      "type": "hot-spots",
-      "blocks": {
-        "item_pecGdT": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 39,
-            "vertical_position": 62,
-            "horizontal_position_mobile": 38,
-            "vertical_position_mobile": 58,
-            "icon_width": 32,
-            "title": "Coutures latérales renforcées",
-            "content": "<p>Coutures renforcées sur les côtés pour plus de solidité à l’entraînement, sans gêner les mouvements.</p>"
-          }
-        },
-        "item_EQYBqa": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 43,
-            "vertical_position": 25,
-            "horizontal_position_mobile": 52,
-            "vertical_position_mobile": 36,
-            "icon_width": 32,
-            "title": "Broderie",
-            "content": "<p>Broderie fine réalisée par des professionnels du textile, positionnée avec précision, durable lavage après lavage.</p>"
-          }
-        },
-        "item_L4FjEf": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 52,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 40,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "Col renforcé",
-            "content": "<p>Col rigide avec coutures d’épaisseur pour une meilleure tenue et plus de résistance aux saisies fréquentes.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_pecGdT",
-        "item_EQYBqa",
-        "item_L4FjEf"
-      ],
-      "name": "Hot spots",
-      "settings": {
-        "full_width": true,
-        "image": "shopify://shop_images/NOIR_COMPET_DEVANT_c65a53df-ef86-4457-80c4-344bfae6838a.png",
-        "mobile_image": "shopify://shop_images/NOIR_COMPET_DEVANT_c65a53df-ef86-4457-80c4-344bfae6838a.png",
-        "title": "ART DU DETAIL",
-        "content": "<p>- Tout a été pensé au détail près -</p>",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start-center text-center",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
-      }
-    },
     "image_with_text_overlay_Ar9zmX": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -538,6 +451,7 @@
         "heading_QGaeH7",
         "richtext_PLaJQp"
       ],
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -672,11 +586,9 @@
     "main",
     "accordion_content_BknqBJ",
     "rich_text_tDePJd",
-    "image_with_text_overlay_jqJQDB",
     "media_with_text_edH7V9",
     "hot_spots_cPX779",
     "hot_spots_i4xKVX",
-    "hot_spots_rjnRLE",
     "image_with_text_overlay_Ar9zmX",
     "image_link_blocks_cifaaF",
     "related-products",
