@@ -178,43 +178,19 @@
     },
     "image_with_text_overlay_r9reJq": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_yjwqUV": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_bzk3KX": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_URhMcf": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_yjwqUV",
-        "heading_bzk3KX",
-        "richtext_URhMcf"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_18_mai_2025_a_15_18_09.jpg",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_18_mai_2025_a_15_18_09.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "impact_text_EFQ3Rf": {
