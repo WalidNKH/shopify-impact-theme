@@ -66,6 +66,17 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "product_variations_tGzphm": {
+          "type": "product_variations",
+          "settings": {
+            "option_name": "Ce qui pourrait te plaire aussi",
+            "option_value_metafield": "",
+            "products": [
+              "flash-roll-official-short"
+            ],
+            "color_mode": "color"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -89,6 +100,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
+        "product_variations_tGzphm",
         "buy_buttons"
       ],
       "settings": {
