@@ -184,7 +184,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/ChatGPT_Image_18_mai_2025_a_15_18_09.jpg",
+        "image": "shopify://shop_images/ChatGPT_Image_18_mai_2025_a_16_10_05.png",
         "mobile_image": "shopify://shop_images/ChatGPT_Image_18_mai_2025_a_15_18_09.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -235,39 +235,48 @@
         "item_ijdQjC": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Ce rashguard est-il adapté à la compétition ?",
+            "content": "<p>Oui, notre rashguard est conforme aux normes IBJJF et pensé pour la pratique en compétition comme à l’entraînement. Sa coupe ajustée et ses matériaux résistants assurent confort et performance.</p>"
           }
         },
         "item_htbFNk": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Ce rashguard peut-il être utilisé pour d'autres sports ?",
+            "content": "<p>Oui, il est parfaitement adapté à d'autres disciplines comme le MMA, la lutte, le cross-training ou même le surf grâce à son tissu respirant et sa coupe ergonomique.</p>"
           }
         },
         "item_rjqdXf": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Est-ce que le tissu tient bien dans le temps ?",
+            "content": "<p>Oui, le tissu est résistant à l’abrasion, aux frottements répétés et aux lavages. Les coutures sont renforcées pour garantir une bonne durabilité.</p>"
+          }
+        },
+        "item_DmMYGp": {
+          "type": "item",
+          "settings": {
+            "title": "Le tissu est-il respirant ?",
+            "content": "<p>Absolument. Le tissu utilisé est technique, léger et respirant, conçu pour évacuer la transpiration efficacement pendant l’effort intense.</p>"
           }
         }
       },
       "block_order": [
         "item_ijdQjC",
         "item_htbFNk",
-        "item_rjqdXf"
+        "item_rjqdXf",
+        "item_DmMYGp"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "content": "",
+        "team_avatar": "shopify://shop_images/IMG_1821.jpg",
+        "team_avatar_width": 110,
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
