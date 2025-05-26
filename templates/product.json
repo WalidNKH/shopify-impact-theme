@@ -66,6 +66,16 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "associated_products_EgL3ba": {
+          "type": "associated_products",
+          "settings": {
+            "title": "Buy it with",
+            "stack_products": true,
+            "products_count": 5,
+            "background": "",
+            "text_color": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -89,6 +99,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
+        "associated_products_EgL3ba",
         "buy_buttons"
       ],
       "settings": {
