@@ -157,10 +157,10 @@
       "settings": {
         "recommendations_count": 2,
         "products": [
-          "flash-roll-rashguard-blanc",
-          "flash-roll-official-short",
           "flash-roll-gi-competition-noir",
-          "flash-roll-gi-competition-blanc"
+          "flash-roll-gi-competition-blanc",
+          "flash-roll-gi-competition-bleu-blanc",
+          "flash-roll-rashguard-blanc"
         ],
         "full_width": true,
         "stack_products": true,
