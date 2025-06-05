@@ -84,34 +84,6 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
-    <script>
-      document.addEventListener('DOMContentLoaded', function () {
-        const privacyBar = document.querySelector('privacy-bar');
-        const acceptBtn = document.querySelector('[data-action="accept"]');
-        const declineBtn = document.querySelector('[data-action="decline"]');
     
-        // Vérifie si le choix a déjà été fait
-        if (localStorage.getItem('cookieConsent') === 'accepted' || localStorage.getItem('cookieConsent') === 'declined') {
-          if (privacyBar) privacyBar.style.display = 'none';
-        }
-    
-        // Gestion du clic sur Accepter
-        if (acceptBtn) {
-          acceptBtn.addEventListener('click', function () {
-            localStorage.setItem('cookieConsent', 'accepted');
-            if (privacyBar) privacyBar.style.display = 'none';
-          });
-        }
-    
-        // Gestion du clic sur Refuser
-        if (declineBtn) {
-          declineBtn.addEventListener('click', function () {
-            localStorage.setItem('cookieConsent', 'declined');
-            if (privacyBar) privacyBar.style.display = 'none';
-          });
-        }
-      });
-    </script>
-
   </body>
 </html>
