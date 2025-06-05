@@ -9881,7 +9881,7 @@ split-lines {
 
 .shopify-payment-button__button {
   padding-block-start: 1.075rem;
-        padding-block-end: 1.075rem;
-        padding-inline-start: var(--spacing-10);
-        padding-inline-end: var(--spacing-10);
+  padding-block-end: 1.075rem;
+  padding-inline-start: var(--spacing-10);
+  padding-inline-end: var(--spacing-10);
 }
