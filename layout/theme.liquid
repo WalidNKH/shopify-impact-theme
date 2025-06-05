@@ -84,6 +84,49 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
+    <script>
+      function handlePrivacyBar() {
+        const bar = document.querySelector('privacy-bar');
+        if (!bar) return;
+    
+        const consent = localStorage.getItem('cookieConsent');
+        if (consent === 'accepted' || consent === 'declined') {
+          bar.remove();
+          return;
+        }
+    
+        const tryBind = () => {
+          // Certaines versions de privacy-bar utilisent Shadow DOM
+          const shadow = bar.shadowRoot;
+          const acceptBtn = shadow ? shadow.querySelector('[data-action="accept"]') : bar.querySelector('[data-action="accept"]');
+          const declineBtn = shadow ? shadow.querySelector('[data-action="decline"]') : bar.querySelector('[data-action="decline"]');
+    
+          if (!acceptBtn || !declineBtn) {
+            setTimeout(tryBind, 100); // retry until buttons appear
+            return;
+          }
+    
+          acceptBtn.addEventListener('click', () => {
+            localStorage.setItem('cookieConsent', 'accepted');
+            bar.remove();
+          });
+    
+          declineBtn.addEventListener('click', () => {
+            localStorage.setItem('cookieConsent', 'declined');
+            bar.remove();
+          });
+        };
+    
+        tryBind();
+      }
+    
+      // Run on initial load
+      document.addEventListener('DOMContentLoaded', handlePrivacyBar);
+    
+      // Run again after Shopify AJAX page transitions (pjax)
+      document.addEventListener('shopify:section:load', handlePrivacyBar);
+      document.addEventListener('shopify:load', handlePrivacyBar);
+    </script>
 
   </body>
 </html>
