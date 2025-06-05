@@ -9884,7 +9884,7 @@ split-lines {
   padding-block-end: 1.075rem !important;
   padding-inline-start: var(--spacing-10) !important;
   padding-inline-end: var(--spacing-10) !important;
-  border-radius: 0 !important;
+  border-radius: 30 !important;
   width: 100% !important;
   font-size: 1rem !important;
   line-height: 1.2 !important;
