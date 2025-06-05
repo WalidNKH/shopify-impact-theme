@@ -86,31 +86,49 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
     </main>
     <script>
       document.addEventListener('DOMContentLoaded', function () {
-        const privacyBar = document.querySelector('privacy-bar');
-        const acceptBtn = document.querySelector('[data-action="accept"]');
-        const declineBtn = document.querySelector('[data-action="decline"]');
+        const checkConsent = () => {
+          const privacyBar = document.querySelector('privacy-bar');
+          const consent = localStorage.getItem('cookieConsent');
     
-        const consent = localStorage.getItem('cookieConsent');
+          if (!privacyBar) return;
     
-        if (consent === 'accepted' || consent === 'declined') {
-          if (privacyBar) privacyBar.style.display = 'none';
-        }
+          if (consent === 'accepted' || consent === 'declined') {
+            privacyBar.style.display = 'none';
+            return;
+          }
     
-        if (acceptBtn) {
-          acceptBtn.addEventListener('click', function () {
-            localStorage.setItem('cookieConsent', 'accepted');
-            if (privacyBar) privacyBar.style.display = 'none';
+          // Attendre que le Shadow DOM soit prêt
+          requestAnimationFrame(() => {
+            const shadowRoot = privacyBar.shadowRoot;
+            if (!shadowRoot) return;
+    
+            const acceptBtn = shadowRoot.querySelector('[data-action="accept"]');
+            const declineBtn = shadowRoot.querySelector('[data-action="decline"]');
+    
+            if (acceptBtn) {
+              acceptBtn.addEventListener('click', () => {
+                localStorage.setItem('cookieConsent', 'accepted');
+                privacyBar.style.display = 'none';
+              });
+            }
+    
+            if (declineBtn) {
+              declineBtn.addEventListener('click', () => {
+                localStorage.setItem('cookieConsent', 'declined');
+                privacyBar.style.display = 'none';
+              });
+            }
           });
-        }
+        };
     
-        if (declineBtn) {
-          declineBtn.addEventListener('click', function () {
-            localStorage.setItem('cookieConsent', 'declined');
-            if (privacyBar) privacyBar.style.display = 'none';
-          });
-        }
+        // Shopify thème Impact met le privacy-bar parfois dynamiquement
+        const observer = new MutationObserver(checkConsent);
+        observer.observe(document.body, { childList: true, subtree: true });
+    
+        checkConsent(); // initial check
       });
     </script>
+
 
   </body>
 </html>
