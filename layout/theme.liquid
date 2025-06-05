@@ -84,5 +84,26 @@ NOTE TO DEVELOPERS: welcome to Impact theme! We hope that you will enjoy editing
         {%- sections 'footer-group' -%}
       {%- endif -%}
     </main>
+    <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const applyCustomStyle = () => {
+      const interval = setInterval(() => {
+        const btn = document.querySelector('.shopify-payment-button__button');
+
+        if (btn) {
+          btn.style.padding = '16px';
+          btn.style.fontSize = '16px';
+          btn.style.borderRadius = '8px';
+          btn.style.width = '100%';
+          btn.style.margin = '12px 0';
+          clearInterval(interval);
+        }
+      }, 300);
+    };
+
+    applyCustomStyle();
+  });
+</script>
+
   </body>
 </html>
