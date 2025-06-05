@@ -485,6 +485,7 @@
         "item_EQYBqa",
         "item_L4FjEf"
       ],
+      "disabled": true,
       "name": "Hot spots",
       "settings": {
         "full_width": true,
