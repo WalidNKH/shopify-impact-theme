@@ -209,6 +209,17 @@
 
         {%- if request.page_type != 'password' -%}
           <div class="product-info__buy-buttons" {{ block.shopify_attributes }}>
+            <div class="product-custom-field">
+              <label for="custom_instagram">Ton @Instagram ou pseudo personnalisé :</label>
+              <input
+                id="custom_instagram"
+                type="text"
+                name="properties[Instagram]"
+                placeholder="@tonpseudo"
+                class="input"
+                required
+              >
+            </div>
             {%- render 'buy-buttons', product: product, form_id: product_form_id, show_payment_button: block.settings.show_payment_button, show_gift_card_recipient: block.settings.show_gift_card_recipient, atc_button_background: block.settings.atc_button_background, atc_button_text_color: block.settings.atc_button_text_color, payment_button_background: block.settings.payment_button_background, payment_button_text_color: block.settings.payment_button_text_color -%}
           </div>
         {%- endif -%}
