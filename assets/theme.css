@@ -9893,3 +9893,16 @@ split-lines {
 .shopify-payment-button__button {
   min-height: 56px !important;
 }
+
+.product-custom-field {
+  margin-bottom: 1rem;
+}
+
+.product-custom-field input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
