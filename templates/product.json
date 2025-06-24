@@ -66,6 +66,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "honeycomb_upsell_cross_sell_swipe_widget_9PQNqT": {
+          "type": "shopify://apps/honeycomb-upsell-cross-sell/blocks/swipe-widget/5f6478b0-766a-4d99-99d3-883f1a9787b0",
+          "settings": {
+            "campaign-id": "6852d7b45b6db00cbcc6a737"
+          }
+        },
         "associated_products_EgL3ba": {
           "type": "associated_products",
           "settings": {
@@ -99,6 +105,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
+        "honeycomb_upsell_cross_sell_swipe_widget_9PQNqT",
         "associated_products_EgL3ba",
         "buy_buttons"
       ],
