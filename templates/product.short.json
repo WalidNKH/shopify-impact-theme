@@ -1,0 +1,757 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "honeycomb_upsell_cross_sell_swipe_widget_9PQNqT": {
+          "type": "shopify://apps/honeycomb-upsell-cross-sell/blocks/swipe-widget/5f6478b0-766a-4d99-99d3-883f1a9787b0",
+          "settings": {
+            "campaign-id": "6852d7b45b6db00cbcc6a737"
+          }
+        },
+        "associated_products_EgL3ba": {
+          "type": "associated_products",
+          "settings": {
+            "title": "Buy it with",
+            "stack_products": true,
+            "products_count": 5,
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "payment_terms",
+        "separator",
+        "description",
+        "variant_picker",
+        "quantity_selector",
+        "honeycomb_upsell_cross_sell_swipe_widget_9PQNqT",
+        "associated_products_EgL3ba",
+        "buy_buttons"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "accordion_content_BknqBJ": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_ywhen4": {
+          "type": "item",
+          "settings": {
+            "title": "Description",
+            "content": "<p>Conçu pour répondre aux exigences de la pratique du Jiu-Jitsu Brésilien, ce kimono allie solidité, confort et sobriété.</p><p>La veste est fabriquée en tissu <strong>pearl weave</strong>, reconnu pour sa durabilité tout en restant relativement léger. Les zones clés, comme le col et les coutures, sont renforcées pour mieux résister aux saisies et à l’usure au fil des entraînements.</p><p>Le pantalon en <strong>ripstop</strong> est pensé pour offrir une bonne liberté de mouvement, avec des renforts aux genoux et un système de serrage stable grâce à un cordon plat.</p><p>Chaque kimono est brodé avec soin par des professionnels du textile, pour une finition propre et durable.</p>"
+          }
+        },
+        "item_DBBDhH": {
+          "type": "item",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<ul><li>Veste en <strong>pearl weave 450 gsm</strong></li><li>Pantalon en <strong>ripstop léger et résistant</strong></li><li>Renforts aux points de tension (entre-jambe, col, coutures)</li><li>Cordon de serrage plat et œillets renforcés</li><li>Broderies nettes réalisées avec précision</li><li>Coupe ajustée (ni trop ample, ni trop serrée)</li></ul>"
+          }
+        },
+        "item_Fy3jaE": {
+          "type": "item",
+          "settings": {
+            "title": "Entretien",
+            "content": "<ul><li>Laver à froid (30°C max)</li><li>Ne pas utiliser d’adoucissant</li><li>Séchage à l’air libre recommandé</li><li>Ne pas repasser les broderies</li></ul>"
+          }
+        },
+        "item_tyyicf": {
+          "type": "item",
+          "settings": {
+            "title": "Pensé pour la pratique",
+            "content": "<p>Chaque détail a été réfléchi pour accompagner l'entraînement : coupe fonctionnelle, tissu durable, finitions sobres. Un kimono conçu pour ceux qui prennent leur pratique au sérieux.</p>"
+          }
+        },
+        "item_eiDeY9": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "title": "Guide des tailles",
+            "content": "<p>A0 → 160–170 cm / 50–65 kg  <br/>A1 → 165–175 cm / 60–75 kg  <br/>A1L → 175–180 cm / 65–75 kg  <br/>A2 → 170–185 cm / 75–90 kg  <br/>A2L → 180–190 cm / 80–95 kg  <br/>A3 → 180–195 cm / 90–105 kg  <br/>A4 → 190–200 cm / 105–120 kg  <br/><br/>Conseil : entre deux tailles, choisissez selon votre préférence (ajusté ou plus ample).<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_ywhen4",
+        "item_DBBDhH",
+        "item_Fy3jaE",
+        "item_tyyicf",
+        "item_eiDeY9"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "rich_text_tDePJd": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_JKidC7": {
+          "type": "subheading",
+          "settings": {
+            "text": "FLASH ROLL"
+          }
+        },
+        "heading_9CY3tW": {
+          "type": "heading",
+          "settings": {
+            "text": "DESCRIPTION",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_bpEmCy": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Conçu pour répondre aux exigences de la pratique du Jiu-Jitsu Brésilien, ce kimono allie solidité, confort et sobriété.</p><p>La veste est fabriquée en tissu <strong>pearl weave</strong>, reconnu pour sa durabilité tout en restant relativement léger. Les zones clés, comme le col et les coutures, sont renforcées pour mieux résister aux saisies et à l’usure au fil des entraînements.</p><p>Le pantalon en <strong>ripstop</strong> est pensé pour offrir une bonne liberté de mouvement, avec des renforts aux genoux et un système de serrage stable grâce à un cordon plat.</p><p>Chaque kimono est brodé avec soin par des professionnels du textile, pour une finition propre et durable.</p>"
+          }
+        },
+        "heading_mXqWmP": {
+          "type": "heading",
+          "settings": {
+            "text": "Caractéristiques",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_VtDDAF": {
+          "type": "richtext",
+          "settings": {
+            "content": "<ul><li>Veste en <strong>pearl weave 450 gsm</strong></li><li>Pantalon en <strong>ripstop léger et résistant</strong></li><li>Renforts aux points de tension (entre-jambe, col, coutures)</li><li>Cordon de serrage plat et œillets renforcés</li><li>Broderies nettes réalisées avec précision</li><li>Coupe ajustée (ni trop ample, ni trop serrée)</li></ul>"
+          }
+        },
+        "heading_9a8Vmz": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Guide des tailles",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_JKidC7",
+        "heading_9CY3tW",
+        "richtext_bpEmCy",
+        "heading_mXqWmP",
+        "richtext_VtDDAF",
+        "heading_9a8Vmz"
+      ],
+      "disabled": true,
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_jqJQDB": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Untitled_image.png",
+        "mobile_image": "shopify://shop_images/IMG_0196.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "media_with_text_edH7V9": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_XtDaad": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1712.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_XtDaad"
+      ],
+      "disabled": true,
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "spacing": "small"
+      }
+    },
+    "hot_spots_cPX779": {
+      "type": "hot-spots",
+      "blocks": {
+        "item_K8qPmD": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 39,
+            "vertical_position": 62,
+            "horizontal_position_mobile": 38,
+            "vertical_position_mobile": 58,
+            "icon_width": 32,
+            "title": "Coutures latérales renforcées",
+            "content": "<p>Coutures renforcées sur les côtés pour plus de solidité à l’entraînement, sans gêner les mouvements.</p>"
+          }
+        },
+        "item_NJYVhR": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 43,
+            "vertical_position": 25,
+            "horizontal_position_mobile": 52,
+            "vertical_position_mobile": 36,
+            "icon_width": 32,
+            "title": "Broderie",
+            "content": "<p>Broderie fine réalisée par des professionnels du textile, positionnée avec précision, durable lavage après lavage.</p>"
+          }
+        },
+        "item_PML9eJ": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 52,
+            "vertical_position": 14,
+            "horizontal_position_mobile": 40,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Col renforcé",
+            "content": "<p>Col rigide avec coutures d’épaisseur pour une meilleure tenue et plus de résistance aux saisies fréquentes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_K8qPmD",
+        "item_NJYVhR",
+        "item_PML9eJ"
+      ],
+      "disabled": true,
+      "name": "Hot spots",
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/BLEU_COMPET_DEVANT.png",
+        "mobile_image": "shopify://shop_images/BLEU_COMPET_DEVANT.png",
+        "title": "ART DU DETAIL",
+        "content": "<p>- Tout a été pensé au détail près -</p>",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start-center text-center",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
+    "hot_spots_i4xKVX": {
+      "type": "hot-spots",
+      "blocks": {
+        "item_fWDhGi": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 39,
+            "vertical_position": 62,
+            "horizontal_position_mobile": 38,
+            "vertical_position_mobile": 58,
+            "icon_width": 32,
+            "title": "Coutures latérales renforcées",
+            "content": "<p>Coutures renforcées sur les côtés pour plus de solidité à l’entraînement, sans gêner les mouvements.</p>"
+          }
+        },
+        "item_XQmi4F": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 43,
+            "vertical_position": 25,
+            "horizontal_position_mobile": 52,
+            "vertical_position_mobile": 36,
+            "icon_width": 32,
+            "title": "Broderie",
+            "content": "<p>Broderie fine réalisée par des professionnels du textile, positionnée avec précision, durable lavage après lavage.</p>"
+          }
+        },
+        "item_A4fJYV": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 52,
+            "vertical_position": 14,
+            "horizontal_position_mobile": 40,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Col renforcé",
+            "content": "<p>Col rigide avec coutures d’épaisseur pour une meilleure tenue et plus de résistance aux saisies fréquentes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_fWDhGi",
+        "item_XQmi4F",
+        "item_A4fJYV"
+      ],
+      "disabled": true,
+      "name": "Hot spots",
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
+        "mobile_image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
+        "title": "ART DU DETAIL",
+        "content": "<p>- Tout a été pensé au détail près -</p>",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start-center text-center",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
+    "hot_spots_rjnRLE": {
+      "type": "hot-spots",
+      "blocks": {
+        "item_pecGdT": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 39,
+            "vertical_position": 62,
+            "horizontal_position_mobile": 38,
+            "vertical_position_mobile": 58,
+            "icon_width": 32,
+            "title": "Coutures latérales renforcées",
+            "content": "<p>Coutures renforcées sur les côtés pour plus de solidité à l’entraînement, sans gêner les mouvements.</p>"
+          }
+        },
+        "item_EQYBqa": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 43,
+            "vertical_position": 25,
+            "horizontal_position_mobile": 52,
+            "vertical_position_mobile": 36,
+            "icon_width": 32,
+            "title": "Broderie",
+            "content": "<p>Broderie fine réalisée par des professionnels du textile, positionnée avec précision, durable lavage après lavage.</p>"
+          }
+        },
+        "item_L4FjEf": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 52,
+            "vertical_position": 14,
+            "horizontal_position_mobile": 40,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Col renforcé",
+            "content": "<p>Col rigide avec coutures d’épaisseur pour une meilleure tenue et plus de résistance aux saisies fréquentes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_pecGdT",
+        "item_EQYBqa",
+        "item_L4FjEf"
+      ],
+      "name": "Hot spots",
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/NOIR_COMPET_DEVANT_c65a53df-ef86-4457-80c4-344bfae6838a.png",
+        "mobile_image": "shopify://shop_images/NOIR_COMPET_DEVANT_c65a53df-ef86-4457-80c4-344bfae6838a.png",
+        "title": "ART DU DETAIL",
+        "content": "<p>- Tout a été pensé au détail près -</p>",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start-center text-center",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
+    "image_with_text_overlay_Ar9zmX": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_PN9Xca": {
+          "type": "subheading",
+          "settings": {
+            "text": "FLASH ROLL"
+          }
+        },
+        "heading_QGaeH7": {
+          "type": "heading",
+          "settings": {
+            "text": "Un savoir-faire textile précis",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_PLaJQp": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>avec des broderies nettes réalisées par des professionnels du vêtement technique.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PN9Xca",
+        "heading_QGaeH7",
+        "richtext_PLaJQp"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_16_43_18.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_22_avr._2025_a_16_36_29.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "image_link_blocks_cifaaF": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_3efTBF": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_qriPVE": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_hJzdrc": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_Hd9YBb": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_3efTBF",
+        "item_qriPVE",
+        "item_hJzdrc",
+        "item_Hd9YBb"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 2,
+        "products": [
+          "flash-roll-rashguard-blanc",
+          "flash-roll-official-short",
+          "flash-roll-gi-competition-blanc-1",
+          "flash-roll-gi-original-beige-1"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Suggestions pour vous",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "custom_liquid_rPmPMy": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  /* Centrage du texte pour mobile */\n  .section-header.md\\:hidden .prose {\n    text-align: center !important;\n    align-items: center !important;\n    justify-content: center !important;\n    margin: 0 auto !important;\n  }\n\n  /* Centrage du texte pour desktop */\n  .place-self-start.text-start {\n    text-align: center !important;\n    place-self: center !important;\n    justify-self: center !important;\n  }\n\n  .place-self-start.text-start .prose {\n    margin: 0 auto !important;\n  }\n</style>\n\n<style>\n  /* Espace au-dessus du heading (mobile) */\n  .section-header.md\\:hidden {\n    padding-top: 20px !important;\n  }\n\n  /* Espace au-dessus du heading (desktop) */\n  .place-self-start.text-start {\n    padding-top: 20px !important;\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "174817677702c3b2d6": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_tnqqKF": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_tnqqKF"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "17502610224b1687e0": {
+      "type": "apps",
+      "blocks": {
+        "honeycomb_upsell_cross_sell_swipe_widget_VF7MxK": {
+          "type": "shopify://apps/honeycomb-upsell-cross-sell/blocks/swipe-widget/5f6478b0-766a-4d99-99d3-883f1a9787b0",
+          "settings": {
+            "campaign-id": "6852d7b45b6db00cbcc6a737"
+          }
+        }
+      },
+      "block_order": [
+        "honeycomb_upsell_cross_sell_swipe_widget_VF7MxK"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "accordion_content_BknqBJ",
+    "rich_text_tDePJd",
+    "image_with_text_overlay_jqJQDB",
+    "media_with_text_edH7V9",
+    "hot_spots_cPX779",
+    "hot_spots_i4xKVX",
+    "hot_spots_rjnRLE",
+    "image_with_text_overlay_Ar9zmX",
+    "image_link_blocks_cifaaF",
+    "related-products",
+    "custom_liquid_rPmPMy",
+    "174817677702c3b2d6",
+    "17502610224b1687e0"
+  ]
+}
