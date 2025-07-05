@@ -240,6 +240,33 @@
         "button_text_color": ""
       }
     },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "recommendations_count": 2,
+        "products": [
+          "flash-roll-official-short",
+          "ceinture-flash-roll",
+          "flash-roll-gi-competition-noir",
+          "flash-roll-gi-competition-blanc"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Suggestions pour vous",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "faq_dRU3wg": {
       "type": "faq",
       "blocks": {
@@ -346,33 +373,6 @@
         "overlay_opacity": 30
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "recommendations_count": 2,
-        "products": [
-          "flash-roll-official-short",
-          "ceinture-flash-roll",
-          "flash-roll-gi-competition-noir",
-          "flash-roll-gi-competition-blanc"
-        ],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Suggestions pour vous",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "custom_liquid_rPmPMy": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -392,9 +392,9 @@
     "accordion_content_BknqBJ",
     "image_with_text_overlay_r9reJq",
     "impact_text_EFQ3Rf",
+    "related-products",
     "faq_dRU3wg",
     "image_with_text_overlay_Ar9zmX",
-    "related-products",
     "custom_liquid_rPmPMy"
   ]
 }
