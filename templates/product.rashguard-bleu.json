@@ -109,38 +109,38 @@
         "input_text_color": ""
       }
     },
-    "accordion_content_BknqBJ": {
+    "accordion_content_mNWmrk": {
       "type": "accordion-content",
       "blocks": {
-        "item_ywhen4": {
+        "item_GWPa8Y": {
           "type": "item",
           "settings": {
             "title": "Description",
-            "content": "<p>Conçu pour répondre aux exigences de la pratique du Jiu-Jitsu Brésilien, ce kimono allie solidité, confort et sobriété.</p><p>La veste est fabriquée en tissu <strong>pearl weave</strong>, reconnu pour sa durabilité tout en restant relativement léger. Les zones clés, comme le col et les coutures, sont renforcées pour mieux résister aux saisies et à l’usure au fil des entraînements.</p><p>Le pantalon en <strong>ripstop</strong> est pensé pour offrir une bonne liberté de mouvement, avec des renforts aux genoux et un système de serrage stable grâce à un cordon plat.</p><p>Chaque kimono est brodé avec soin par des professionnels du textile, pour une finition propre et durable.</p>"
+            "content": "<p>Conçu pour accompagner la pratique du <strong>Jiu-Jitsu Brésilien</strong>, le rashguard offre un équilibre entre <strong>maintien, confort et mobilité.</strong></p><p>Fabriqué dans un tissu extensible à séchage rapide, il épouse les mouvements sans gêner, tout en apportant une légère compression pour plus de <strong>stabilité</strong> pendant l’effort.</p><p>Les coutures plates réduisent les <strong>frottements</strong> et limitent les <strong>irritations</strong>, même lors d’entraînements intensifs ou sous le kimono.</p><p>Chaque <strong>rashguard</strong> est imprimé avec soin pour garantir un rendu visuel propre et durable, entraînement après entraînement.</p>"
           }
         },
-        "item_DBBDhH": {
+        "item_PQGWph": {
           "type": "item",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<ul><li>Veste en <strong>pearl weave 450 gsm</strong></li><li>Pantalon en <strong>ripstop léger et résistant</strong></li><li>Renforts aux points de tension (entre-jambe, col, coutures)</li><li>Cordon de serrage plat et œillets renforcés</li><li>Broderies nettes réalisées avec précision</li><li>Coupe ajustée (ni trop ample, ni trop serrée)</li></ul>"
+            "content": "<ul><li>Tissu polyester/élasthanne extensible</li><li>Coupe ajustée avec compression légère</li><li>Coutures plates (flatlock) anti-frottement</li><li>Séchage rapide et respirabilité optimisée</li><li>Impression sublimée durable</li><li>Col renforcé pour une meilleure tenue</li></ul>"
           }
         },
-        "item_Fy3jaE": {
+        "item_hbDhtw": {
           "type": "item",
           "settings": {
             "title": "Entretien",
-            "content": "<ul><li>Laver à froid (30°C max)</li><li>Ne pas utiliser d’adoucissant</li><li>Séchage à l’air libre recommandé</li><li>Ne pas repasser les broderies</li></ul>"
+            "content": "<ul><li><strong>Lavage à froid</strong> (30°C max)</li><li><strong>Sans adoucissant</strong> ni javel</li><li><strong>Séchage à l’air libre recommandé</strong></li><li><strong>Ne pas repasser</strong> ni passer au sèche-linge</li></ul>"
           }
         },
-        "item_tyyicf": {
+        "item_kQxxLp": {
           "type": "item",
           "settings": {
             "title": "Pensé pour la pratique",
-            "content": "<p>Chaque détail a été réfléchi pour accompagner l'entraînement : coupe fonctionnelle, tissu durable, finitions sobres. Un kimono conçu pour ceux qui prennent leur pratique au sérieux.</p>"
+            "content": "<p>Chaque détail a été pensé pour<strong>suivre le rythme de l’entraînement</strong>: coupe près du corps,<strong>tissu respirant</strong>, coutures confortables.<br/>Un rashguard conçu pour celles et ceux qui cherchent à<strong>bouger librement</strong>,<strong>sans distraction</strong>, en no-gi comme sous le gi.</p>"
           }
         },
-        "item_eiDeY9": {
+        "item_Gq9WHA": {
           "type": "item",
           "disabled": true,
           "settings": {
@@ -150,11 +150,11 @@
         }
       },
       "block_order": [
-        "item_ywhen4",
-        "item_DBBDhH",
-        "item_Fy3jaE",
-        "item_tyyicf",
-        "item_eiDeY9"
+        "item_GWPa8Y",
+        "item_PQGWph",
+        "item_hbDhtw",
+        "item_kQxxLp",
+        "item_Gq9WHA"
       ],
       "name": "Accordion content",
       "settings": {
@@ -176,75 +176,6 @@
         "accordion_text_color": ""
       }
     },
-    "rich_text_tDePJd": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_JKidC7": {
-          "type": "subheading",
-          "settings": {
-            "text": "FLASH ROLL"
-          }
-        },
-        "heading_9CY3tW": {
-          "type": "heading",
-          "settings": {
-            "text": "DESCRIPTION",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_bpEmCy": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Conçu pour répondre aux exigences de la pratique du Jiu-Jitsu Brésilien, ce kimono allie solidité, confort et sobriété.</p><p>La veste est fabriquée en tissu <strong>pearl weave</strong>, reconnu pour sa durabilité tout en restant relativement léger. Les zones clés, comme le col et les coutures, sont renforcées pour mieux résister aux saisies et à l’usure au fil des entraînements.</p><p>Le pantalon en <strong>ripstop</strong> est pensé pour offrir une bonne liberté de mouvement, avec des renforts aux genoux et un système de serrage stable grâce à un cordon plat.</p><p>Chaque kimono est brodé avec soin par des professionnels du textile, pour une finition propre et durable.</p>"
-          }
-        },
-        "heading_mXqWmP": {
-          "type": "heading",
-          "settings": {
-            "text": "Caractéristiques",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_VtDDAF": {
-          "type": "richtext",
-          "settings": {
-            "content": "<ul><li>Veste en <strong>pearl weave 450 gsm</strong></li><li>Pantalon en <strong>ripstop léger et résistant</strong></li><li>Renforts aux points de tension (entre-jambe, col, coutures)</li><li>Cordon de serrage plat et œillets renforcés</li><li>Broderies nettes réalisées avec précision</li><li>Coupe ajustée (ni trop ample, ni trop serrée)</li></ul>"
-          }
-        },
-        "heading_9a8Vmz": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "text": "Guide des tailles",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_JKidC7",
-        "heading_9CY3tW",
-        "richtext_bpEmCy",
-        "heading_mXqWmP",
-        "richtext_VtDDAF",
-        "heading_9a8Vmz"
-      ],
-      "disabled": true,
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "image_with_text_overlay_jqJQDB": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -262,182 +193,40 @@
         "overlay_opacity": 0
       }
     },
-    "media_with_text_edH7V9": {
-      "type": "media-with-text",
+    "impact_text_PP4Mri": {
+      "type": "impact-text",
       "blocks": {
-        "image_XtDaad": {
-          "type": "image",
+        "item_kYCcF7": {
+          "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_1712.jpg",
-            "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
-            "link_text": "",
-            "link_url": "",
-            "background": "#000000",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
+            "title": "100%",
+            "subheading": "liberté de mouvement",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2.5
           }
         }
       },
       "block_order": [
-        "image_XtDaad"
+        "item_kYCcF7"
       ],
-      "disabled": true,
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "spacing": "small"
-      }
-    },
-    "hot_spots_cPX779": {
-      "type": "hot-spots",
-      "blocks": {
-        "item_K8qPmD": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 39,
-            "vertical_position": 62,
-            "horizontal_position_mobile": 38,
-            "vertical_position_mobile": 58,
-            "icon_width": 32,
-            "title": "Coutures latérales renforcées",
-            "content": "<p>Coutures renforcées sur les côtés pour plus de solidité à l’entraînement, sans gêner les mouvements.</p>"
-          }
-        },
-        "item_NJYVhR": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 43,
-            "vertical_position": 25,
-            "horizontal_position_mobile": 52,
-            "vertical_position_mobile": 36,
-            "icon_width": 32,
-            "title": "Broderie",
-            "content": "<p>Broderie fine réalisée par des professionnels du textile, positionnée avec précision, durable lavage après lavage.</p>"
-          }
-        },
-        "item_PML9eJ": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 52,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 40,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "Col renforcé",
-            "content": "<p>Col rigide avec coutures d’épaisseur pour une meilleure tenue et plus de résistance aux saisies fréquentes.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_K8qPmD",
-        "item_NJYVhR",
-        "item_PML9eJ"
-      ],
-      "disabled": true,
-      "name": "Hot spots",
+      "name": "Impact text",
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/BLEU_COMPET_DEVANT.png",
-        "mobile_image": "shopify://shop_images/BLEU_COMPET_DEVANT.png",
-        "title": "ART DU DETAIL",
-        "content": "<p>- Tout a été pensé au détail près -</p>",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start-center text-center",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
-      }
-    },
-    "hot_spots_i4xKVX": {
-      "type": "hot-spots",
-      "blocks": {
-        "item_fWDhGi": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 39,
-            "vertical_position": 62,
-            "horizontal_position_mobile": 38,
-            "vertical_position_mobile": 58,
-            "icon_width": 32,
-            "title": "Coutures latérales renforcées",
-            "content": "<p>Coutures renforcées sur les côtés pour plus de solidité à l’entraînement, sans gêner les mouvements.</p>"
-          }
-        },
-        "item_XQmi4F": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 43,
-            "vertical_position": 25,
-            "horizontal_position_mobile": 52,
-            "vertical_position_mobile": 36,
-            "icon_width": 32,
-            "title": "Broderie",
-            "content": "<p>Broderie fine réalisée par des professionnels du textile, positionnée avec précision, durable lavage après lavage.</p>"
-          }
-        },
-        "item_A4fJYV": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 52,
-            "vertical_position": 14,
-            "horizontal_position_mobile": 40,
-            "vertical_position_mobile": 14,
-            "icon_width": 32,
-            "title": "Col renforcé",
-            "content": "<p>Col rigide avec coutures d’épaisseur pour une meilleure tenue et plus de résistance aux saisies fréquentes.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_fWDhGi",
-        "item_XQmi4F",
-        "item_A4fJYV"
-      ],
-      "disabled": true,
-      "name": "Hot spots",
-      "settings": {
-        "full_width": true,
-        "image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
-        "mobile_image": "shopify://shop_images/NOIR_COMPET_DEVANT.png",
-        "title": "ART DU DETAIL",
-        "content": "<p>- Tout a été pensé au détail près -</p>",
-        "button_text": "",
-        "button_url": "",
-        "desktop_text_position": "place-self-start-center text-center",
-        "image_background": "",
-        "image_background_gradient": "",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0,
-        "overlay_text_color": "#ffffff",
-        "overlay_button_background": "",
-        "overlay_button_text_color": "",
-        "hot_spot_dot_background": "#ffffff",
-        "hot_spot_dot_text_color": "#000000",
-        "hot_spot_content_background": "#ffffff",
-        "hot_spot_content_text_color": "#000000",
-        "hot_spot_content_opacity": 90,
-        "hot_spot_content_blur_radius": 3
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 0.8,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "image_with_text_overlay_Ar9zmX": {
@@ -483,80 +272,6 @@
         "overlay_opacity": 30
       }
     },
-    "image_link_blocks_cifaaF": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_3efTBF": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_qriPVE": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_hJzdrc": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_Hd9YBb": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_3efTBF",
-        "item_qriPVE",
-        "item_hJzdrc",
-        "item_Hd9YBb"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -584,6 +299,68 @@
         "product_card_text_color": ""
       }
     },
+    "faq_fkFhw3": {
+      "type": "faq",
+      "blocks": {
+        "item_84TW8q": {
+          "type": "item",
+          "settings": {
+            "title": "Ce rashguard est-il adapté à la compétition ?",
+            "content": "<p>Oui, notre rashguard est conforme aux normes IBJJF et pensé pour la pratique en compétition comme à l’entraînement. Sa coupe ajustée et ses matériaux résistants assurent confort et performance.</p>"
+          }
+        },
+        "item_MYEbV3": {
+          "type": "item",
+          "settings": {
+            "title": "Ce rashguard peut-il être utilisé pour d'autres sports ?",
+            "content": "<p>Oui, il est parfaitement adapté à d'autres disciplines comme le MMA, la lutte, le cross-training ou même le surf grâce à son tissu respirant et sa coupe ergonomique.</p>"
+          }
+        },
+        "item_AQeact": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que le tissu tient bien dans le temps ?",
+            "content": "<p>Oui, le tissu est résistant à l’abrasion, aux frottements répétés et aux lavages. Les coutures sont renforcées pour garantir une bonne durabilité.</p>"
+          }
+        },
+        "item_ayzUkL": {
+          "type": "item",
+          "settings": {
+            "title": "Le tissu est-il respirant ?",
+            "content": "<p>Absolument. Le tissu utilisé est technique, léger et respirant, conçu pour évacuer la transpiration efficacement pendant l’effort intense.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_84TW8q",
+        "item_MYEbV3",
+        "item_AQeact",
+        "item_ayzUkL"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar": "shopify://shop_images/IMG_1821.jpg",
+        "team_avatar_width": 140,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "custom_liquid_rPmPMy": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
@@ -600,15 +377,12 @@
   },
   "order": [
     "main",
-    "accordion_content_BknqBJ",
-    "rich_text_tDePJd",
+    "accordion_content_mNWmrk",
     "image_with_text_overlay_jqJQDB",
-    "media_with_text_edH7V9",
-    "hot_spots_cPX779",
-    "hot_spots_i4xKVX",
-    "image_with_text_overlay_Ar9zmX",
-    "image_link_blocks_cifaaF",
+    "impact_text_PP4Mri",
     "related-products",
+    "image_with_text_overlay_Ar9zmX",
+    "faq_fkFhw3",
     "custom_liquid_rPmPMy"
   ]
 }
