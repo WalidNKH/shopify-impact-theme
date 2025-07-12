@@ -254,8 +254,8 @@
         "products": [
           "flash-roll-rashguard-blanc",
           "flash-roll-official-short",
-          "flash-roll-gi-competition-blanc-1",
-          "flash-roll-gi-original-beige-1"
+          "ceinture-flash-roll",
+          "flash-roll-gi-competition-blanc"
         ],
         "full_width": true,
         "stack_products": true,
@@ -315,19 +315,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
-      }
-    },
-    "custom_liquid_rPmPMy": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<style>\n  /* Centrage du texte pour mobile */\n  .section-header.md\\:hidden .prose {\n    text-align: center !important;\n    align-items: center !important;\n    justify-content: center !important;\n    margin: 0 auto !important;\n  }\n\n  /* Centrage du texte pour desktop */\n  .place-self-start.text-start {\n    text-align: center !important;\n    place-self: center !important;\n    justify-self: center !important;\n  }\n\n  .place-self-start.text-start .prose {\n    margin: 0 auto !important;\n  }\n</style>\n\n<style>\n  /* Espace au-dessus du heading (mobile) */\n  .section-header.md\\:hidden {\n    padding-top: 20px !important;\n  }\n\n  /* Espace au-dessus du heading (desktop) */\n  .place-self-start.text-start {\n    padding-top: 20px !important;\n  }\n</style>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "faq_GfLtG9": {
@@ -390,6 +377,19 @@
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
+      }
+    },
+    "custom_liquid_rPmPMy": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  /* Centrage du texte pour mobile */\n  .section-header.md\\:hidden .prose {\n    text-align: center !important;\n    align-items: center !important;\n    justify-content: center !important;\n    margin: 0 auto !important;\n  }\n\n  /* Centrage du texte pour desktop */\n  .place-self-start.text-start {\n    text-align: center !important;\n    place-self: center !important;\n    justify-self: center !important;\n  }\n\n  .place-self-start.text-start .prose {\n    margin: 0 auto !important;\n  }\n</style>\n\n<style>\n  /* Espace au-dessus du heading (mobile) */\n  .section-header.md\\:hidden {\n    padding-top: 20px !important;\n  }\n\n  /* Espace au-dessus du heading (desktop) */\n  .place-self-start.text-start {\n    padding-top: 20px !important;\n  }\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "174817677702c3b2d6": {
