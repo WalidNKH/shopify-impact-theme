@@ -72,6 +72,10 @@
             "liquid": "<div class=\"essential-upsell-frequently-bought-together-block\"></div>"
           }
         },
+        "essential_upsell_frequently_bought_together_app_block_r89nbi": {
+          "type": "shopify://apps/essential-upsell/blocks/frequently-bought-together-app-block/50627fd9-24fd-4250-8614-accc12826d80",
+          "settings": {}
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -96,6 +100,7 @@
         "variant_picker",
         "quantity_selector",
         "liquid_9HpF8M",
+        "essential_upsell_frequently_bought_together_app_block_r89nbi",
         "buy_buttons"
       ],
       "settings": {
