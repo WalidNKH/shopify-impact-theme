@@ -84,6 +84,10 @@
         "essential_upsell_frequently_bought_together_app_block_qCCziR": {
           "type": "shopify://apps/essential-upsell/blocks/frequently-bought-together-app-block/50627fd9-24fd-4250-8614-accc12826d80",
           "settings": {}
+        },
+        "essential_upsell_frequently_bought_together_app_block_QWVDKE": {
+          "type": "shopify://apps/essential-upsell/blocks/frequently-bought-together-app-block/50627fd9-24fd-4250-8614-accc12826d80",
+          "settings": {}
         }
       },
       "block_order": [
@@ -99,7 +103,8 @@
         "essential_upsell_app_block_ENxGQi",
         "quantity_selector",
         "buy_buttons",
-        "essential_upsell_frequently_bought_together_app_block_qCCziR"
+        "essential_upsell_frequently_bought_together_app_block_qCCziR",
+        "essential_upsell_frequently_bought_together_app_block_QWVDKE"
       ],
       "settings": {
         "full_width": true,
