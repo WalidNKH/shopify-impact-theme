@@ -66,12 +66,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "honeycomb_upsell_cross_sell_swipe_widget_9PQNqT": {
-          "type": "shopify://apps/honeycomb-upsell-cross-sell/blocks/swipe-widget/5f6478b0-766a-4d99-99d3-883f1a9787b0",
-          "settings": {
-            "campaign-id": "6852d7b45b6db00cbcc6a737"
-          }
-        },
         "associated_products_EgL3ba": {
           "type": "associated_products",
           "settings": {
@@ -92,6 +86,10 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "essential_upsell_frequently_bought_together_app_block_p87Hzr": {
+          "type": "shopify://apps/essential-upsell/blocks/frequently-bought-together-app-block/50627fd9-24fd-4250-8614-accc12826d80",
+          "settings": {}
         }
       },
       "block_order": [
@@ -105,9 +103,9 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "honeycomb_upsell_cross_sell_swipe_widget_9PQNqT",
         "associated_products_EgL3ba",
-        "buy_buttons"
+        "buy_buttons",
+        "essential_upsell_frequently_bought_together_app_block_p87Hzr"
       ],
       "settings": {
         "full_width": true,
