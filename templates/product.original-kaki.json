@@ -66,6 +66,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "liquid_9HpF8M": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"essential-upsell-frequently-bought-together-block\"></div>"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -89,6 +95,7 @@
         "description",
         "variant_picker",
         "quantity_selector",
+        "liquid_9HpF8M",
         "buy_buttons"
       ],
       "settings": {
