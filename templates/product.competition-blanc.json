@@ -62,18 +62,12 @@
             "size_chart_page": ""
           }
         },
-        "associated_products_ExrFHD": {
-          "type": "associated_products",
-          "settings": {
-            "title": "Profitez en :",
-            "stack_products": true,
-            "products_count": 5,
-            "background": "",
-            "text_color": ""
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
+          "settings": {}
+        },
+        "essential_upsell_frequently_bought_together_app_block_3agkyq": {
+          "type": "shopify://apps/essential-upsell/blocks/frequently-bought-together-app-block/50627fd9-24fd-4250-8614-accc12826d80",
           "settings": {}
         },
         "buy_buttons": {
@@ -98,8 +92,8 @@
         "separator",
         "description",
         "variant_picker",
-        "associated_products_ExrFHD",
         "quantity_selector",
+        "essential_upsell_frequently_bought_together_app_block_3agkyq",
         "buy_buttons"
       ],
       "settings": {
