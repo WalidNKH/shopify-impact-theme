@@ -127,18 +127,19 @@
           "type": "item",
           "settings": {
             "title": "Description",
-            "content": "<p>Conçu pour répondre aux exigences de la pratique du Jiu-Jitsu Brésilien, ce kimono allie solidité, confort et sobriété.</p><p>La veste est fabriquée en tissu <strong>pearl weave</strong>, reconnu pour sa durabilité tout en restant relativement léger. Les zones clés, comme le col et les coutures, sont renforcées pour mieux résister aux saisies et à l’usure au fil des entraînements.</p><p>Le pantalon en <strong>ripstop</strong> est pensé pour offrir une bonne liberté de mouvement, avec des renforts aux genoux et un système de serrage stable grâce à un cordon plat.</p><p>Chaque kimono est brodé avec soin par des professionnels du textile, pour une finition propre et durable.</p>"
+            "content": "<p>Pensée pour les pratiquants exigeants de Jiu-Jitsu Brésilien, cette genouillère combine maintien, confort et discrétion.<br/>Sa conception anatomique épouse la forme du genou sans limiter les mouvements, idéale pour les phases au sol comme les transitions dynamiques.</p><p>La compression ciblée aide à stabiliser l’articulation tout en favorisant la circulation sanguine, essentielle pour réduire les risques de blessures et accélérer la récupération.<br/>Les coutures plates limitent les frottements sous le kimono ou le short, tandis que le tissu respirant évacue efficacement la transpiration pendant l’effort.</p><p>Un indispensable pour ceux qui enchaînent les rounds, sans compromis sur la mobilité ni sur la protection.</p>"
           }
         },
         "item_DBBDhH": {
           "type": "item",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<ul><li>Veste en <strong>pearl weave 450 gsm</strong></li><li>Pantalon en <strong>ripstop léger et résistant</strong></li><li>Renforts aux points de tension (entre-jambe, col, coutures)</li><li>Cordon de serrage plat et œillets renforcés</li><li>Broderies nettes réalisées avec précision</li><li>Coupe ajustée (ni trop ample, ni trop serrée)</li></ul>"
+            "content": "<ul><li>Genouillère en néoprène <strong>souple</strong> et <strong>résistant</strong></li><li>Compression ciblée pour un maintien optimal de <strong>l’articulation</strong></li><li>Coutures plates pour limiter les <strong>irritations</strong> et les <strong>frottements</strong></li><li>Tissu <strong>respirant</strong> et évacuant l’humidité</li><li>Design ergonomique pour une totale <strong>liberté de mouvement</strong></li><li><strong>Coupe ajustée</strong>, adaptée sous le kimono ou le short de grappling</li></ul>"
           }
         },
         "item_Fy3jaE": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Entretien",
             "content": "<ul><li>Laver à froid (30°C max)</li><li>Ne pas utiliser d’adoucissant</li><li>Séchage à l’air libre recommandé</li><li>Ne pas repasser les broderies</li></ul>"
@@ -148,7 +149,7 @@
           "type": "item",
           "settings": {
             "title": "Pensé pour la pratique",
-            "content": "<p>Chaque détail a été réfléchi pour accompagner l'entraînement : coupe fonctionnelle, tissu durable, finitions sobres. Un kimono conçu pour ceux qui prennent leur pratique au sérieux.</p>"
+            "content": "<p>Chaque détail a été pensé pour soutenir l’intensité des entraînements : maintien précis, matériaux robustes, design discret. Une genouillère conçue pour ceux qui veulent protéger leur corps sans freiner leur progression.</p>"
           }
         },
         "item_eiDeY9": {
