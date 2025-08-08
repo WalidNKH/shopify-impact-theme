@@ -48,6 +48,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
             "collapse_content": false
           }
@@ -153,7 +154,7 @@
           "type": "item",
           "settings": {
             "title": "Pensé pour la pratique",
-            "content": "<p>Chaque détail a été pensé pour<strong>suivre le rythme de l’entraînement</strong>: coupe près du corps,<strong>tissu respirant</strong>, coutures confortables.<br/>Un rashguard conçu pour celles et ceux qui cherchent à<strong>bouger librement</strong>,<strong>sans distraction</strong>, en no-gi comme sous le gi.</p>"
+            "content": "<p>Chaque détail a été pensé pour <strong>suivre le rythme de l’entraînement</strong>: coupe près du corps, <strong>tissu respirant</strong>, coutures confortables.<br/>Un rashguard conçu pour celles et ceux qui cherchent à <strong>bouger librement</strong>, <strong>sans distraction</strong>, en no-gi comme sous le gi.</p>"
           }
         },
         "item_eiDeY9": {
