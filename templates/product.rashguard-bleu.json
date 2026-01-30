@@ -72,7 +72,7 @@
         "liquid_xme88y": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"urgency-stock\">\n  <span class=\"dot-stock\"></span>\n  <span class=\"stock-text\">\n    Il reste <strong>1</strong> unité en stock réel\n  </span>\n</div>\n\n<style>\n  .urgency-stock {\n    margin-top: 8px;\n    font-size: 13px;\n    color: #b12704;\n    display: flex;\n    align-items: center;\n    gap: 6px;\n  }\n\n  .dot-stock {\n    width: 8px;\n    height: 8px;\n    background-color: #e74c3c;\n    border-radius: 50%;\n    animation: blink-stock 1.5s infinite;\n  }\n\n  @keyframes blink-stock {\n    0% { opacity: 1; }\n    50% { opacity: 0.3; }\n    100% { opacity: 1; }\n  }\n</style>"
+            "liquid": "<div class=\"urgency-stock\">\n  <span class=\"dot-stock\"></span>\n  <span class=\"stock-text\">\n    Il reste <strong>7</strong> unité en stock réel\n  </span>\n</div>\n\n<style>\n  .urgency-stock {\n    margin-top: 8px;\n    font-size: 13px;\n    color: #b12704;\n    display: flex;\n    align-items: center;\n    gap: 6px;\n  }\n\n  .dot-stock {\n    width: 8px;\n    height: 8px;\n    background-color: #e74c3c;\n    border-radius: 50%;\n    animation: blink-stock 1.5s infinite;\n  }\n\n  @keyframes blink-stock {\n    0% { opacity: 1; }\n    50% { opacity: 0.3; }\n    100% { opacity: 1; }\n  }\n</style>"
           }
         },
         "quantity_selector": {
