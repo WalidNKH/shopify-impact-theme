@@ -42,6 +42,12 @@
           "type": "payment_terms",
           "settings": {}
         },
+        "liquid_JPftGh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"urgency-viewers\">\n  <span class=\"dot-live\"></span>\n  <span id=\"live-viewers-text\"></span>\n</div>\n\n<style>\n  .urgency-viewers {\n    margin-top: 8px;\n    font-size: 13px;\n    color: #555;\n    display: flex;\n    align-items: center;\n    gap: 6px;\n  }\n\n  .dot-live {\n    width: 8px;\n    height: 8px;\n    background-color: #2ecc71;\n    border-radius: 50%;\n    animation: blink 1.5s infinite;\n  }\n\n  @keyframes blink {\n    0% { opacity: 1; }\n    50% { opacity: 0.3; }\n    100% { opacity: 1; }\n  }\n</style>\n\n<script>\n  document.addEventListener(\"DOMContentLoaded\", function () {\n    var min = 2;\n    var max = 7;\n    var viewers = Math.floor(Math.random() * (max - min + 1)) + min;\n\n    var textEl = document.getElementById(\"live-viewers-text\");\n    if (!textEl) return;\n\n    function updateViewers() {\n      textEl.innerHTML = \"<strong>\" + viewers + \"</strong> personnes consultent ce produit actuellement\";\n    }\n\n    updateViewers();\n\n    setInterval(function () {\n      var change = Math.floor(Math.random() * 3) - 1; // -1, 0 ou +1\n      viewers = Math.max(min, viewers + change);\n      updateViewers();\n    }, 8000);\n  });\n</script>"
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -66,6 +72,12 @@
         "essential_upsell_app_block_ENxGQi": {
           "type": "shopify://apps/essential-upsell/blocks/app-block/50627fd9-24fd-4250-8614-accc12826d80",
           "settings": {}
+        },
+        "liquid_NcBWyw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"urgency-stock\">\n  <span class=\"dot-stock\"></span>\n  <span class=\"stock-text\">\n    Il reste <strong>1</strong> unité en stock réel\n  </span>\n</div>\n\n<style>\n  .urgency-stock {\n    margin-top: 8px;\n    font-size: 13px;\n    color: #b12704;\n    display: flex;\n    align-items: center;\n    gap: 6px;\n  }\n\n  .dot-stock {\n    width: 8px;\n    height: 8px;\n    background-color: #e74c3c;\n    border-radius: 50%;\n    animation: blink-stock 1.5s infinite;\n  }\n\n  @keyframes blink-stock {\n    0% { opacity: 1; }\n    50% { opacity: 0.3; }\n    100% { opacity: 1; }\n  }\n</style>"
+          }
         },
         "quantity_selector": {
           "type": "quantity_selector",
@@ -94,10 +106,12 @@
         "price",
         "rating",
         "payment_terms",
+        "liquid_JPftGh",
         "separator",
         "description",
         "variant_picker",
         "essential_upsell_app_block_ENxGQi",
+        "liquid_NcBWyw",
         "quantity_selector",
         "essential_upsell_frequently_bought_together_app_block_qCCziR",
         "buy_buttons"
@@ -688,7 +702,9 @@
           "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "review_data": "sample_data",
-            "max_width": 1200
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
           }
         }
       },
