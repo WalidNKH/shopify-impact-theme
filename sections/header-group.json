@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_ARYmfw": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison gratuite dès 100€",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
@@ -23,6 +30,7 @@
         }
       },
       "block_order": [
+        "message_ARYmfw",
         "message"
       ],
       "settings": {
